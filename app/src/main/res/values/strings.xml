@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OmniAI Studio</string>
+    <string name="badge_unlimited">UNLIMITED PRO</string>
+    <string name="tab_image">สร้างภาพ AI</string>
+    <string name="tab_video">สร้างวิดีโอ AI</string>
+    <string name="panel_title_image">แผงควบคุมการสร้างภาพ</string>
+    <string name="panel_title_video">แผงควบคุมการสร้างวิดีโอ</string>
+    <string name="unlimited_tag">ใช้งานได้ไม่จำกัด</string>
+    <string name="prompt_label">คำอธิบายภาพ / วิดีโอ (Prompt)</string>
+    <string name="prompt_placeholder">อธิบายภาพหรือวิดีโอที่คุณต้องการสร้าง เช่น: Cyberpunk city at night with neon lights, highly detailed 8k cinematic photo...</string>
+    <string name="quick_tags">แท็กสไตล์ด่วน</string>
+    <string name="btn_generate_image">สร้างภาพทันที (Unlimited)</string>
+    <string name="btn_generate_video">สร้างวิดีโอทันที (Unlimited)</string>
+    <string name="engine_label">โมเดล AI (Engine)</string>
+    <string name="ratio_label">สัดส่วน (Aspect Ratio)</string>
+    <string name="duration_label">ความยาววิดีโอ (วินาที)</string>
+    <string name="motion_label">การเคลื่อนไหวของกล้อง</string>
+    <string name="preview_title">ผลลัพธ์การสร้าง (Preview)</string>
+    <string name="status_ready">พร้อมทำงาน</string>
+    <string name="status_generating">กำลังประมวลผล...</string>
+</resources>
